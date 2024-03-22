@@ -18,13 +18,6 @@ The following technologies were used in the development of this project:
 - Bootstrap
 - Font Awesome
 
-## Getting Started
-To get started with Panda Commerce, follow these steps:
-
-1. Clone the repository: **`https://github.com/MuzakkirHossainMinhaz/panda-commerce.git`**
-2. Open the project folder: **`cd panda-commerce`**
-3. Open the **`index.html`** file in your preferred web browser.
-
 ## Folder Structure
 ``` css
 panda-commerce/
