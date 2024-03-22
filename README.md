@@ -1,5 +1,8 @@
+![image](https://github.com/akshansh071/e-commerce/assets/139325110/ea891740-4cad-4ccb-8fca-c5bc4bde3840)
+
+
 # panda-commerce
-Panda Commerce is a simple and beginner-level eCommerce landing page design project. It showcases a responsive, providing a seamless experience across different devices and screen sizes and clean landing page developed using HTML, CSS, Bootstrap, and Font Awesome for icons. The project aims to provide a foundation for those starting out in web development and offers a well-organized code structure. [preview👁️‍🗨️](https://panda-commerce-2023.netlify.app/)
+Panda Commerce is a simple and beginner-level eCommerce landing page design project. It showcases a responsive, providing a seamless experience across different devices and screen sizes and clean landing page developed using HTML, CSS, Bootstrap, and Font Awesome for icons. The project aims to provide a foundation for those starting out in web development and offers a well-organized code structure.
 
 ## Features
 - Simple and beginner-level e-commerce landing page design
@@ -35,14 +38,3 @@ panda-commerce/
 └── README.md
 ```
 
-## Contribution Guidelines
-This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgements
-- The Bootstrap framework and Font Awesome library were used to enhance the responsiveness and visual appeal of the landing page.
-
-
-Thank you for your interest in Panda Commerce! We appreciate your support and contributions.
